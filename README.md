@@ -6,6 +6,9 @@
 -  Run 'npm start'.
 -  Enjoy Songs:)
 
-### Deployment link - https://github.com/Omentiwari/IpodMusicApp
+## Deployment link - https://github.com/Omentiwari/IpodMusicApp
 
+## Author
+Name: Omendra Tiwari
+GitHub: @omentiwari
 
